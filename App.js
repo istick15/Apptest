@@ -7,12 +7,12 @@
  */
 
 import React from 'react';
-import {Text} from 'react-native';
+import MapTour from './screens/MapTour';
 
 const App = () => {
   return (
     <>
-      <Text>Test</Text>
+      <MapTour />
     </>
   );
 };
