@@ -1,5 +1,0 @@
-{
-  "tilejson": "2.2.0",
-  "name": "ticmaptiles",
-  "tiles": ["https://ticapi.i-bitz.co.th/v1.0/tourist-places/map-tiles/{z}/{x}/{y}"]
-}
