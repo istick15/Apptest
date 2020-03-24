@@ -1,0 +1,32 @@
+{
+  "tilejson": "2.2.0",
+  "name": "ticmaptiles",
+  "tiles": [
+    "http://ticapi.mots.go.th/osm/satellite/{z}/{x}/{y}.jpg",
+    "http://ticapi.mots.go.th/osm/hillshades/{z}/{x}/{y}.png",
+    "https://mt0.google.com/vt/lyrs=r&x={x}&y={y}&z={z}",
+    "https://mt1.google.com/vt/lyrs=r&x={x}&y={y}&z={z}",
+    "https://mt2.google.com/vt/lyrs=r&x={x}&y={y}&z={z}",
+    "https://mt3.google.com/vt/lyrs=r&x={x}&y={y}&z={z}",
+    "https://mt0.google.com/vt/lyrs=h&x={x}&y={y}&z={z}",
+    "https://mt1.google.com/vt/lyrs=h&x={x}&y={y}&z={z}",
+    "https://mt2.google.com/vt/lyrs=h&x={x}&y={y}&z={z}",
+    "https://mt3.google.com/vt/lyrs=h&x={x}&y={y}&z={z}",
+    "https://mt0.google.com/vt/lyrs=p&x={x}&y={y}&z={z}",
+    "https://mt1.google.com/vt/lyrs=p&x={x}&y={y}&z={z}",
+    "https://mt2.google.com/vt/lyrs=p&x={x}&y={y}&z={z}",
+    "https://mt3.google.com/vt/lyrs=p&x={x}&y={y}&z={z}",
+    "https://mt0.google.com/vt/lyrs=s&x={x}&y={y}&z={z}",
+    "https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}",
+    "https://mt2.google.com/vt/lyrs=s&x={x}&y={y}&z={z}",
+    "https://mt3.google.com/vt/lyrs=s&x={x}&y={y}&z={z}",
+    "https://mt0.google.com/vt/lyrs=y&x={x}&y={y}&z={z}",
+    "https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}",
+    "https://mt2.google.com/vt/lyrs=y&x={x}&y={y}&z={z}",
+    "https://mt3.google.com/vt/lyrs=y&x={x}&y={y}&z={z}",
+    "https://mt0.google.com/vt/lyrs=m@221097413,traffic&x={x}&y={y}&z={z}",
+    "https://mt1.google.com/vt/lyrs=m@221097413,traffic&x={x}&y={y}&z={z}",
+    "https://mt2.google.com/vt/lyrs=m@221097413,traffic&x={x}&y={y}&z={z}",
+    "https://mt3.google.com/vt/lyrs=m@221097413,traffic&x={x}&y={y}&z={z}"
+  ]
+}
