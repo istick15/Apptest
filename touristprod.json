@@ -1,0 +1,7 @@
+{
+  "tilejson": "2.2.0",
+  "name": "ticmaptiles",
+  "tiles": [
+    "https://ticapi.mots.go.th/v1.0/tourist-places/map-tiles/{z}/{x}/{y}"
+  ]
+}
